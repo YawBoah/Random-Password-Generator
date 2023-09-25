@@ -21,3 +21,8 @@ const allChars = upperCase + lowerCase + number + symbol;
     }
     passwordBox.value = password;
  }
+
+ function copyPassword(){
+    passwordBox.ariaSelected();
+    document.execCommand("copy");
+ }

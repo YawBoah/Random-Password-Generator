@@ -70,3 +70,40 @@ body{
     border-radius: 5px;
     cursor: pointer;
 }
+
+/* CSS for larger screens (default styles) */
+
+/* Media query for smaller screens */
+@media (max-width: 768px) {
+    .container {
+      margin: 10%; /* Adjust margin for smaller screens */
+    }
+  
+    .container h1 {
+      font-size: 32px; /* Adjust font size for smaller screens */
+    }
+  
+    .display {
+      margin-top: 30px;
+      margin-bottom: 20px;
+      padding: 20px 15px; /* Adjust padding for smaller screens */
+    }
+  
+    .display img {
+      width: 24px; /* Adjust image size for smaller screens */
+    }
+  
+    .display input {
+      font-size: 18px; /* Adjust font size for smaller screens */
+    }
+  
+    .container button img {
+      width: 20px; /* Adjust image size for smaller screens */
+    }
+  
+    .container button {
+      font-size: 18px; /* Adjust font size for smaller screens */
+      padding: 12px 20px; /* Adjust padding for smaller screens */
+    }
+  }
+  

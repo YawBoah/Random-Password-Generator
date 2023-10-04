@@ -4,7 +4,6 @@ This is a simple web-based Random Password Generator that allows users to create
 
 ![image](https://github.com/YawBoah/Random-Password-Generator/assets/126890146/cfdf693c-e3bd-4721-92e8-aaebf8fa2952)
 
-
 ## Table of Contents
 
 - [Features](#features)

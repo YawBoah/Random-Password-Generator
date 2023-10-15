@@ -46,7 +46,7 @@ The password generation process is as follows:
 
 🔐 Looking for a unique and secure password? Click the button below to generate a special password, exclusively for you.
 
-[Generate Password]() 
+[Generate Password](https://yawboah.github.io/Random-Password-Generator/) 
 
 It's easy, it's secure, and it's all yours! Don't compromise on your online security – get your special password now!
 

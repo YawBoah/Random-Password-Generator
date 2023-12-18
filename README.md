@@ -38,20 +38,16 @@ The password generation process is as follows:
 5. Users can click the copy icon to copy the password to their clipboard.
 
 ## 🌟 Generate Your Special Password
-
 🔐 Looking for a unique and secure password? Click the button below to generate a special password, exclusively for you.
 
 [Generate Password](https://yawboah.github.io/Random-Password-Generator/) 
 
 It's easy, it's secure, and it's all yours! Don't compromise on your online security – get your special password now!
 
-
 ## Contributing
-
 Contributions to this project are welcome. If you have any suggestions for improvements or would like to add new features, please feel free to create a pull request.
 
 ## License
-
 This project is licensed under the [MIT License](LICENSE).
 
 ---

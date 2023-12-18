@@ -11,13 +11,11 @@ This is a simple web-based Random Password Generator that allows users to create
 - [License](#license)
 
 ## Features
-
 - **Password Generation**: Users can generate random passwords by clicking the "Generate Password" button. The generated password includes a mix of uppercase letters, lowercase letters, numbers, and symbols.
 
 - **Copy to Clipboard**: Users can easily copy the generated password to their clipboard by clicking the copy icon.
 
 ## Usage
-
 1. Open the `index.html` file in a web browser.
 
 2. Click the "Generate Password" button to create a random password.
@@ -27,7 +25,6 @@ This is a simple web-based Random Password Generator that allows users to create
 4. Click the copy icon to copy the password to your clipboard for use in other applications.
 
 ## How It Works
-
 The password generation process is as follows:
 
 1. Initialize an empty `password` variable to store the generated password.

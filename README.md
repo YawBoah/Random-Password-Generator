@@ -1,5 +1,4 @@
 # Random Password Generator
-
 This is a simple web-based Random Password Generator that allows users to create random passwords with a combination of uppercase letters, lowercase letters, numbers, and symbols. The generated password can be copied to the clipboard for easy use.
 
 ![image](https://github.com/YawBoah/Random-Password-Generator/assets/126890146/cfdf693c-e3bd-4721-92e8-aaebf8fa2952)

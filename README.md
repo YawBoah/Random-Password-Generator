@@ -3,7 +3,6 @@ Introducing the Random Password Generator – your go-to solution for creating r
 
 ## Features 🛠️
 - **Password Powerhouse**: Generate foolproof passwords with a blend of uppercase letters, lowercase letters, numbers, and symbols.
-  
 - **Copy with Confidence**: Effortlessly copy your newly created password to the clipboard for quick and secure access.
 
 ## How to Use 🤓

@@ -1,4 +1,8 @@
 # Secure Your Digital World with Style! 🌐🔐
+![GitHub repo size](https://img.shields.io/github/repo-size/YawBoah/Random-Password-Generator)
+![GitHub issues](https://img.shields.io/github/issues/YawBoah/Random-Password-Generator)
+![GitHub stars](https://img.shields.io/github/stars/YawBoah/Random-Password-Generator)
+
 Introducing the Random Password Generator – your go-to solution for creating robust and unique passwords! 🚀🔒
 
 ## Features 🛠️
